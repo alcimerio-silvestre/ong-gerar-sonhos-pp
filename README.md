@@ -1,18 +1,18 @@
-# Política de Privacidade - ONG Gerar Sonhos
+# Política de Privacidade - ONG Abrace
 
 **Última atualização: 09/09/2023**
 
-*Esta Política de Privacidade descreve como a ONG Gerar Sonhos coleta, usa e compartilha informações pessoais dos usuários deste aplicativo. Ao utilizar o aplicativo ONG Gerar Sonhos, você concorda com as práticas descritas nesta política.*
+*Esta Política de Privacidade descreve como a ONG Abrace coleta, usa e compartilha informações pessoais dos usuários deste aplicativo. Ao utilizar o aplicativo ONG Abrace, você concorda com as práticas descritas nesta política.*
 
 ## Informações Coletadas
 
 ### 1. Histórico de Navegação na Internet
 
-O aplicativo ONG Gerar Sonhos coleta informações relacionadas ao histórico de navegação na internet apenas com o propósito de direcionar os usuários para três links externos: agendamento de consultas médicas, visualização de horários de ônibus, busca e matrícula em cursos profissionalizantes, bem como para aprimorar a experiência do usuário.
+O aplicativo ONG Abrace coleta informações relacionadas ao histórico de navegação na internet apenas com o propósito de direcionar os usuários para três links externos: agendamento de consultas médicas, visualização de horários de ônibus, busca e matrícula em cursos profissionalizantes, bem como para aprimorar a experiência do usuário.
 
 ### 2. Acesso à Câmera, Arquivos do Dispositivo e Microfone
 
-O aplicativo ONG Gerar Sonhos pode solicitar acesso à câmera, arquivos do dispositivo e microfone para melhorar a experiência do usuário. Esses recursos podem ser usados, por exemplo, para permitir o envio de documentos relacionados à matrícula em cursos profissionalizantes ou para agendar consultas médicas via chamada de vídeo.
+O aplicativo ONG Abrace pode solicitar acesso à câmera, arquivos do dispositivo e microfone para melhorar a experiência do usuário. Esses recursos podem ser usados, por exemplo, para permitir o envio de documentos relacionados à matrícula em cursos profissionalizantes ou para agendar consultas médicas via chamada de vídeo.
 
 ## Uso das Informações
 
@@ -26,7 +26,7 @@ O acesso à câmera, arquivos do dispositivo e microfone pode ser utilizado para
 
 ## Compartilhamento de Informações
 
-O aplicativo ONG Gerar Sonhos não compartilha informações pessoais com terceiros, exceto quando expressamente autorizado pelo usuário para fins específicos, como o agendamento de consultas médicas via chamada de vídeo.
+O aplicativo ONG Abrace não compartilha informações pessoais com terceiros, exceto quando expressamente autorizado pelo usuário para fins específicos, como o agendamento de consultas médicas via chamada de vídeo.
 
 ## Links Externos
 
@@ -34,7 +34,7 @@ Este aplicativo contém links externos para agendamento de consultas médicas, v
 
 ## Segurança
 
-Tomamos medidas razoáveis para proteger as informações pessoais dos usuários do aplicativo ONG Gerar Sonhos contra acesso não autorizado, uso indevido ou divulgação.
+Tomamos medidas razoáveis para proteger as informações pessoais dos usuários do aplicativo ONG Abrace contra acesso não autorizado, uso indevido ou divulgação.
 
 ## Alterações nesta Política de Privacidade
 
@@ -42,25 +42,25 @@ Esta Política de Privacidade pode ser atualizada ocasionalmente para refletir q
 
 ## Contato
 
-Se você tiver dúvidas ou preocupações sobre esta Política de Privacidade, o uso de sua câmera, arquivos do dispositivo ou microfone no aplicativo ONG Gerar Sonhos, ou qualquer outro aspecto do aplicativo, entre em contato conosco através dos meios de contato fornecidos no aplicativo.
+Se você tiver dúvidas ou preocupações sobre esta Política de Privacidade, o uso de sua câmera, arquivos do dispositivo ou microfone no aplicativo ONG Abrace, ou qualquer outro aspecto do aplicativo, entre em contato conosco através dos meios de contato fornecidos no aplicativo.
 
 ---
 
-# Privacy Policy - ONG Gerar Sonhos
+# Privacy Policy - ONG Abrace
 
-**Last Updated: 9/9/2023**
+**Last Updated: 09/11/2023**
 
-*This Privacy Policy describes how ONG Gerar Sonhos collects, uses, and shares personal information from users of this application. By using the ONG Gerar Sonhos app, you agree to the practices described in this policy.*
+*This Privacy Policy describes how ONG Abrace collects, uses, and shares personal information from users of this application. By using the ONG Abrace app, you agree to the practices described in this policy.*
 
 ## Information Collected
 
 ### 1. Internet Browsing History
 
-The ONG Gerar Sonhos app collects information related to internet browsing history solely for the purpose of directing users to three external links: scheduling medical appointments, viewing bus schedules, searching, and enrolling in professional courses, as well as to enhance the user experience.
+The ONG Abrace app collects information related to internet browsing history solely for the purpose of directing users to three external links: scheduling medical appointments, viewing bus schedules, searching, and enrolling in professional courses, as well as to enhance the user experience.
 
 ### 2. Access to Camera, Device Files, and Microphone
 
-The ONG Gerar Sonhos app may request access to the camera, device files, and microphone to enhance the user experience. These features may be used, for example, to allow the submission of documents related to professional course enrollment or to schedule medical appointments via video call.
+The ONG Abrace app may request access to the camera, device files, and microphone to enhance the user experience. These features may be used, for example, to allow the submission of documents related to professional course enrollment or to schedule medical appointments via video call.
 
 ## Use of Information
 
@@ -74,7 +74,7 @@ Access to the camera, device files, and microphone may be used for specific purp
 
 ## Information Sharing
 
-The ONG Gerar Sonhos app does not share personal information with third parties, except when expressly authorized by the user for specific purposes, such as scheduling medical appointments via video call.
+The ONG Abrace app does not share personal information with third parties, except when expressly authorized by the user for specific purposes, such as scheduling medical appointments via video call.
 
 ## External Links
 
@@ -82,7 +82,7 @@ This app contains external links for scheduling medical appointments, viewing bu
 
 ## Security
 
-We take reasonable measures to protect the personal information of ONG Gerar Sonhos app users against unauthorized access, misuse, or disclosure.
+We take reasonable measures to protect the personal information of ONG Abrace app users against unauthorized access, misuse, or disclosure.
 
 ## Changes to this Privacy Policy
 
@@ -90,4 +90,4 @@ This Privacy Policy may be updated occasionally to reflect any changes in the pr
 
 ## Contact
 
-If you have any questions or concerns about this Privacy Policy, the use of your camera, device files, or microphone in the ONG Gerar Sonhos app, or any other aspect of the application, please contact us through the contact information provided in the app.
+If you have any questions or concerns about this Privacy Policy, the use of your camera, device files, or microphone in the ONG Abrace app, or any other aspect of the application, please contact us through the contact information provided in the app.
